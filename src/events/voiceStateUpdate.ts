@@ -11,7 +11,7 @@ import { dirname } from 'path';
 import { consola } from 'consola';
 import { fileURLToPath } from 'url';
 
-const user_id_to_track = '215186659585556481';
+const user_id_to_track = '240902803382468610';
 
 const event = {
 	name: Events.VoiceStateUpdate,
